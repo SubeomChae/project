@@ -1,0 +1,4 @@
+2019-10-27 16:01:06 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+2019-10-27 16:31:15 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]

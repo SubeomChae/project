@@ -1,0 +1,5 @@
+﻿// 체험버전 설치, 활용과 관련된 기술문의는 02-557-2757로 문의하여 주십시오.
+
+// 라이선스 유형 : INNORIX WP 웹 환경 파일전송 솔루션 31일 체험 (만료 2019-06-15)
+
+LICENSE: "5DtjajNNzJ/AXFl9bOcHA8miGQTRxiBoGWI6XlvH7ftcwle6vanevR2dvA+HRlJQQM7D09PPibxq3OiZnEbMzIXJQ8E=",

@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/resources/properties/custom.properties=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/account/acc03002.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/budget/bud25002.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/com/blank.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/com/frame/bottom.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/com/include/excel_header.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/com/popup/remarkCodeSearch.jsp=UTF-8
+encoding//src/main/webapp/com/calendar/css/calendar.css=UTF-8
+encoding//src/main/webapp/com/css/ui_custom.css=UTF-8
+encoding//src/main/webapp/com/js/sinjin.datetime.js=UTF-8

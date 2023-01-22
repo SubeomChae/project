@@ -1,0 +1,929 @@
+2020-11-27 08:06:14 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+2020-11-27 08:06:30 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_LOGIN]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [user_id]   VAL : [sabok]
+ PARAM NAME : [pswd]   VAL : [1111]
+ PARAM NAME : [connect_ip]   VAL : [221.141.167.194]
+2020-11-27 08:06:30 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [UPDATE_CNT]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [empl_no]   VAL : [2014041220]
+ PARAM NAME : [user_id]   VAL : [sabok]
+ PARAM NAME : [pswd]   VAL : [1111]
+ PARAM NAME : [connect_ip]   VAL : [221.141.167.194]
+2020-11-27 08:06:30 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_SYSTB_DATE01 (? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [UPDATE_CNT]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+2020-11-27 08:06:30 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_SYSTB_MENU01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [2014041220]
+2020-11-27 08:06:31 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [empl_no]   VAL : [2014041220]
+ PARAM NAME : [connect_ip]   VAL : [221.141.167.194]
+ PARAM NAME : [sys_reg_id]   VAL : [2014041220]
+2020-11-27 08:06:31 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+2020-11-27 08:06:31 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CORP01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [corp_cd]   VAL : [SABOK01]
+ PARAM NAME : [sys_reg_id]   VAL : [2014041220]
+2020-11-27 08:06:31 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_MESG02 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_RECEIVE_COUNT]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [sign_empl_no]   VAL : [2014041220]
+ PARAM NAME : [sys_reg_id]   VAL : [2014041220]
+2020-11-27 08:06:31 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_MESG01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [2014041220]
+ PARAM NAME : [param07]   VAL : [1,2]
+2020-11-27 08:06:31 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_MAST01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST004]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [2014041220]
+ PARAM NAME : [param07]   VAL : [1,2]
+2020-11-27 08:06:31 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_SYSTB_MEMO01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [2014041220]
+ PARAM NAME : [param02]   VAL : [202011]
+ PARAM NAME : [param07]   VAL : [1,2]
+2020-11-27 08:06:31 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_SYSTB_DATE01 (? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_WEEKLY]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [sys_ymd]   VAL : [20201127]
+ PARAM NAME : [sys_reg_id]   VAL : [2014041220]
+2020-11-27 08:06:31 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_CODE01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+2020-11-27 08:06:40 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_DEPT01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param05]   VAL : [Y]
+2020-11-27 08:06:40 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CODE02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [param01]   VAL : [vat_cd]
+2020-11-27 08:06:40 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_ACCTB_SLIP01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [20201028]
+ PARAM NAME : [param02]   VAL : [20201127]
+ PARAM NAME : [param03]   VAL : [A]
+ PARAM NAME : [param04]   VAL : [1140503]
+2020-11-27 08:06:41 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_ACCTB_SLIP01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [1|20201028|20201127]
+ PARAM NAME : [param03]   VAL : [C10]
+ PARAM NAME : [param04]   VAL : [1140503]
+2020-11-27 08:06:41 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CODE02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [param01]   VAL : [vat_cd]
+2020-11-27 08:06:41 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_ACCTB_CODE01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [722]
+ PARAM NAME : [param02]   VAL : [A]
+2020-11-27 08:06:41 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CODE02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [param01]   VAL : [sign_acct_cd]
+2020-11-27 08:06:41 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_FINTB_ACNO01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [1110103]
+2020-11-27 08:06:41 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_ACCTB_SLIP01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [1|20201028|20201127]
+ PARAM NAME : [param03]   VAL : [B30]
+2020-11-27 08:06:42 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_ACCTB_SLIP02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST006]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [2]
+ PARAM NAME : [param02]   VAL : [20201028]
+ PARAM NAME : [param03]   VAL : [20201127]
+2020-11-27 08:06:43 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_ACCTB_SLIP01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [||]
+ PARAM NAME : [param04]   VAL : [1140503]
+2020-11-27 08:06:43 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CODE02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [MULTCODE]
+ PARAM NAME : [param01]   VAL : [biz_type|sign_status|]
+2020-11-27 08:06:43 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_DEPT01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param05]   VAL : [Y]
+2020-11-27 08:06:43 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CODE02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [param01]   VAL : [biz_type]
+2020-11-27 08:06:44 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_ACCTB_SLIP01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [||]
+ PARAM NAME : [param04]   VAL : [1140503]
+2020-11-27 08:06:44 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CODE02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [MULTCODE]
+ PARAM NAME : [param01]   VAL : [biz_type|sign_status|]
+2020-11-27 08:06:44 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_DEPT01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param05]   VAL : [Y]
+2020-11-27 08:06:48 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+2020-11-27 08:06:54 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+2020-11-27 08:06:54 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CODE02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [param01]   VAL : [empl_class@SABOK01]
+2020-11-27 08:06:54 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_DEPT01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+2020-11-27 08:06:54 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [empl_no]   VAL : [2013111170]
+ PARAM NAME : [connect_ip]   VAL : [221.141.167.194]
+ PARAM NAME : [sys_reg_id]   VAL : [2014041220]
+2020-11-27 08:06:56 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+2020-11-27 08:06:56 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CODE02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [param01]   VAL : [empl_class@SABOK01]
+2020-11-27 08:06:56 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_DEPT01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+2020-11-27 08:06:58 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_DEPT01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+2020-11-27 08:06:58 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_DEPT01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [dept_cd]   VAL : [1000000]
+ PARAM NAME : [sys_reg_id]   VAL : [2014041220]
+2020-11-27 08:07:05 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_DATA01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [01]
+2020-11-27 08:07:05 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_DATA01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [01]
+ PARAM NAME : [param02]   VAL : [1]
+2020-11-27 08:33:04 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+2020-11-27 08:33:14 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_LOGIN]
+ PARAM NAME : [dbo]   VAL : [SABOK26]
+ PARAM NAME : [user_id]   VAL : [1985010402]
+ PARAM NAME : [pswd]   VAL : [kpc7241145]
+ PARAM NAME : [connect_ip]   VAL : [112.186.177.130]
+2020-11-27 08:33:14 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [UPDATE_CNT]
+ PARAM NAME : [dbo]   VAL : [SABOK26]
+ PARAM NAME : [empl_no]   VAL : [1985010402]
+ PARAM NAME : [user_id]   VAL : [1985010402]
+ PARAM NAME : [pswd]   VAL : [kpc7241145]
+ PARAM NAME : [connect_ip]   VAL : [112.186.177.130]
+2020-11-27 08:33:14 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_SYSTB_DATE01 (? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [UPDATE_CNT]
+ PARAM NAME : [dbo]   VAL : [SABOK26]
+2020-11-27 08:33:14 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_SYSTB_MENU01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK26]
+ PARAM NAME : [param01]   VAL : [1985010402]
+2020-11-27 08:33:14 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CORP01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK26]
+ PARAM NAME : [corp_cd]   VAL : [SABOK26]
+ PARAM NAME : [sys_reg_id]   VAL : [1985010402]
+2020-11-27 08:33:14 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK26]
+ PARAM NAME : [empl_no]   VAL : [1985010402]
+ PARAM NAME : [connect_ip]   VAL : [112.186.177.130]
+ PARAM NAME : [sys_reg_id]   VAL : [1985010402]
+2020-11-27 08:33:14 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+ PARAM NAME : [dbo]   VAL : [SABOK26]
+2020-11-27 08:33:15 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_MESG02 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_RECEIVE_COUNT]
+ PARAM NAME : [dbo]   VAL : [SABOK26]
+ PARAM NAME : [sign_empl_no]   VAL : [1985010402]
+ PARAM NAME : [sys_reg_id]   VAL : [1985010402]
+2020-11-27 08:33:15 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_MESG01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK26]
+ PARAM NAME : [param01]   VAL : [1985010402]
+ PARAM NAME : [param07]   VAL : [1,2]
+2020-11-27 08:33:15 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_MAST01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST004]
+ PARAM NAME : [dbo]   VAL : [SABOK26]
+ PARAM NAME : [param01]   VAL : [1985010402]
+ PARAM NAME : [param07]   VAL : [1,2]
+2020-11-27 08:33:15 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_SYSTB_MEMO01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+ PARAM NAME : [dbo]   VAL : [SABOK26]
+ PARAM NAME : [param01]   VAL : [1985010402]
+ PARAM NAME : [param02]   VAL : [202011]
+ PARAM NAME : [param07]   VAL : [1,2]
+2020-11-27 08:33:15 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_SYSTB_DATE01 (? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_WEEKLY]
+ PARAM NAME : [dbo]   VAL : [SABOK26]
+ PARAM NAME : [sys_ymd]   VAL : [20201127]
+ PARAM NAME : [sys_reg_id]   VAL : [1985010402]
+2020-11-27 08:33:16 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_CODE01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK26]
+2020-11-27 08:33:20 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_MAST01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK26]
+ PARAM NAME : [param01]   VAL : [S00200]
+ PARAM NAME : [param06]   VAL : [1985010402]
+2020-11-27 08:33:20 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CODE02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [param01]   VAL : [sign_status]
+2020-11-27 08:33:23 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_MAST01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK26]
+ PARAM NAME : [apply_no]   VAL : [2020110003]
+ PARAM NAME : [bugt_cd]   VAL : [S00200]
+ PARAM NAME : [sys_reg_id]   VAL : [1985010402]
+2020-11-27 08:33:26 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_MESG01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK26]
+ PARAM NAME : [msg_type]   VAL : [SLP002]
+ PARAM NAME : [search_key]   VAL : [ACCTB_SLIP01|20201120S0001|2020110003|S00200]
+ PARAM NAME : [sys_reg_id]   VAL : [1985010402]
+2020-11-27 08:33:26 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_MESG02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK26]
+ PARAM NAME : [param01]   VAL : [202011200001]
+2020-11-27 09:16:27 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+2020-11-27 10:42:35 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_MESG01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [msg_type]   VAL : [SLP002]
+ PARAM NAME : [search_key]   VAL : [ACCTB_SLIP01|20201120S0001|2020110003|S00200]
+2020-11-27 10:42:35 오전 DEBUG [egovframework.ubiz.web.abstractController] java.sql.SQLException: ORA-20001: DB파라미터가 전달되지 않아 실행할 수 없습니다.
+ORA-06512: "SABOWNER.PR_COMTB_MESG01", 줄 45에서
+ORA-06512: 줄 1에서
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:445)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:879)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:450)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:192)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:531)
+	at oracle.jdbc.driver.T4CCallableStatement.doOall8(T4CCallableStatement.java:204)
+	at oracle.jdbc.driver.T4CCallableStatement.executeForRows(T4CCallableStatement.java:1041)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1329)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3584)
+	at oracle.jdbc.driver.OraclePreparedStatement.execute(OraclePreparedStatement.java:3685)
+	at oracle.jdbc.driver.OracleCallableStatement.execute(OracleCallableStatement.java:4714)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.execute(OraclePreparedStatementWrapper.java:1376)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:172)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:172)
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:172)
+	at egovframework.cbiz.service.impl.CommDBDAO.execList(CommDBDAO.java:94)
+	at egovframework.cbiz.service.impl.CommDBDAO.execBox(CommDBDAO.java:117)
+	at egovframework.cbiz.service.impl.CommDBServiceImpl.execBox(CommDBServiceImpl.java:52)
+	at egovframework.ubiz.web.OtherController.signLineView(OtherController.java:282)
+	at sun.reflect.GeneratedMethodAccessor102.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:222)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:137)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:110)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:814)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:737)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:959)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:893)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:622)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.obtainContent(SiteMeshFilter.java:129)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.doFilter(SiteMeshFilter.java:77)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at egovframework.rte.ptl.mvc.filter.HTMLTagFilter.doFilter(HTMLTagFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:121)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at egovframework.cbiz.CORSFilter.doFilter(CORSFilter.java:24)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1132)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1539)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1495)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+
+2020-11-27 10:42:47 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+2020-11-27 11:04:02 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+2020-11-27 11:04:02 오전 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+2020-11-27 14:04:07 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+2020-11-27 14:16:01 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+2020-11-27 14:16:01 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+2020-11-27 15:20:59 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+2020-11-27 15:21:08 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_LOGIN]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [user_id]   VAL : [20190401]
+ PARAM NAME : [pswd]   VAL : [20190401]
+ PARAM NAME : [connect_ip]   VAL : [220.85.116.168]
+2020-11-27 15:21:08 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [UPDATE_CNT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [empl_no]   VAL : [20190401]
+ PARAM NAME : [user_id]   VAL : [20190401]
+ PARAM NAME : [pswd]   VAL : [20190401]
+ PARAM NAME : [connect_ip]   VAL : [220.85.116.168]
+2020-11-27 15:21:08 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_SYSTB_DATE01 (? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [UPDATE_CNT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+2020-11-27 15:21:08 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_SYSTB_MENU01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [20190401]
+2020-11-27 15:21:08 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CORP01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [corp_cd]   VAL : [SABOK06]
+ PARAM NAME : [sys_reg_id]   VAL : [20190401]
+2020-11-27 15:21:09 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [empl_no]   VAL : [20190401]
+ PARAM NAME : [connect_ip]   VAL : [220.85.116.168]
+ PARAM NAME : [sys_reg_id]   VAL : [20190401]
+2020-11-27 15:21:09 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+2020-11-27 15:21:09 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_MESG02 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_RECEIVE_COUNT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [sign_empl_no]   VAL : [20190401]
+ PARAM NAME : [sys_reg_id]   VAL : [20190401]
+2020-11-27 15:21:09 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_MESG01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [20190401]
+ PARAM NAME : [param07]   VAL : [1,2]
+2020-11-27 15:21:09 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_MAST01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST004]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [20190401]
+ PARAM NAME : [param07]   VAL : [1,2]
+2020-11-27 15:21:09 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_SYSTB_MEMO01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [20190401]
+ PARAM NAME : [param02]   VAL : [202011]
+ PARAM NAME : [param07]   VAL : [1,2]
+2020-11-27 15:21:09 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_SYSTB_DATE01 (? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_WEEKLY]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [sys_ymd]   VAL : [20201127]
+ PARAM NAME : [sys_reg_id]   VAL : [20190401]
+2020-11-27 15:21:10 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_CODE01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+2020-11-27 15:21:13 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_MAST01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [S00400]
+ PARAM NAME : [param06]   VAL : [20190401]
+2020-11-27 15:21:13 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CODE02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [param01]   VAL : [sign_status]
+2020-11-27 15:21:13 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_CODE01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [bugt_cd]   VAL : [S00400]
+ PARAM NAME : [sys_reg_id]   VAL : [20190401]
+2020-11-27 15:21:13 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [empl_no]   VAL : [20190401]
+ PARAM NAME : [connect_ip]   VAL : [220.85.116.168]
+ PARAM NAME : [sys_reg_id]   VAL : [20190401]
+2020-11-27 15:21:13 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CODE02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [MULTCODE]
+ PARAM NAME : [param01]   VAL : [tel_no|bank_cd@@@@A|]
+2020-11-27 15:21:14 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_MAST01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [apply_no]   VAL : [2020110021]
+ PARAM NAME : [bugt_cd]   VAL : [S00400]
+ PARAM NAME : [sys_reg_id]   VAL : [20190401]
+2020-11-27 15:21:15 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_MESG01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [msg_type]   VAL : [SLP002]
+ PARAM NAME : [search_key]   VAL : [ACCTB_SLIP01|20201126S0002|2020110021|S00400]
+ PARAM NAME : [sys_reg_id]   VAL : [20190401]
+2020-11-27 15:21:15 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_MESG02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [202011260003]
+2020-11-27 15:39:34 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+2020-11-27 15:39:34 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+2020-11-27 17:07:42 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+2020-11-27 17:07:50 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_LOGIN]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [user_id]   VAL : [20010901]
+ PARAM NAME : [pswd]   VAL : [20010901]
+ PARAM NAME : [connect_ip]   VAL : [112.220.113.50]
+2020-11-27 17:07:50 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [UPDATE_CNT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [empl_no]   VAL : [20010901]
+ PARAM NAME : [user_id]   VAL : [20010901]
+ PARAM NAME : [pswd]   VAL : [20010901]
+ PARAM NAME : [connect_ip]   VAL : [112.220.113.50]
+2020-11-27 17:07:50 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_SYSTB_DATE01 (? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [UPDATE_CNT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+2020-11-27 17:07:50 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_SYSTB_MENU01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [20010901]
+2020-11-27 17:07:50 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CORP01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [corp_cd]   VAL : [SABOK06]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 17:07:50 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_MESG02 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_RECEIVE_COUNT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [sign_empl_no]   VAL : [20010901]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 17:07:50 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [empl_no]   VAL : [20010901]
+ PARAM NAME : [connect_ip]   VAL : [112.220.113.50]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 17:07:50 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+2020-11-27 17:07:50 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_MESG01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [20010901]
+ PARAM NAME : [param07]   VAL : [1,2]
+2020-11-27 17:07:50 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_MAST01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST004]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [20010901]
+ PARAM NAME : [param07]   VAL : [1,2]
+2020-11-27 17:07:50 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_SYSTB_MEMO01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [20010901]
+ PARAM NAME : [param02]   VAL : [202011]
+ PARAM NAME : [param07]   VAL : [1,2]
+2020-11-27 17:07:50 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_SYSTB_DATE01 (? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_WEEKLY]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [sys_ymd]   VAL : [20201127]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 17:07:53 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_CODE01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+2020-11-27 17:08:18 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_MAST01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [S00200]
+ PARAM NAME : [param06]   VAL : [20010901]
+2020-11-27 17:08:18 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CODE02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [param01]   VAL : [sign_status]
+2020-11-27 17:08:23 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_MAST01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [apply_no]   VAL : [2020100022]
+ PARAM NAME : [bugt_cd]   VAL : [S00200]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 17:08:57 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_LOAN01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param06]   VAL : [20010901]
+2020-11-27 17:08:57 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CODE02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [param01]   VAL : [lon_pro_status]
+2020-11-27 17:08:58 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [empl_no]   VAL : [20010901]
+ PARAM NAME : [connect_ip]   VAL : [112.220.113.50]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 17:08:58 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CODE02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [MULTCODE]
+ PARAM NAME : [param01]   VAL : [cong_class@SABOK06|bank_cd@@@@A|]
+2020-11-27 17:08:58 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_CODE01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [1]
+ PARAM NAME : [param02]   VAL : [L]
+2020-11-27 17:09:01 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_LOAN01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [loan_no]   VAL : [2016030003]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 17:09:01 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_CODE01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [bugt_cd]   VAL : [L00300]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 17:09:01 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_LOAN11_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [2016030003]
+ PARAM NAME : [param02]   VAL : [L00300]
+2020-11-27 17:09:01 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_LOAN11_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST004]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [2016030003]
+ PARAM NAME : [param02]   VAL : [L00300]
+2020-11-27 17:09:01 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_LOAN01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [loan_no]   VAL : [2016030003]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 17:09:01 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_CODE01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [bugt_cd]   VAL : [L00300]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 17:09:01 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_LOAN11_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [2016030003]
+ PARAM NAME : [param02]   VAL : [L00300]
+2020-11-27 17:09:01 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_LOAN11_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST004]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [2016030003]
+ PARAM NAME : [param02]   VAL : [L00300]
+2020-11-27 17:09:28 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_LOAN01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [loan_no]   VAL : [2016030003]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 17:09:28 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_CODE01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [bugt_cd]   VAL : [L00300]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 17:09:28 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_LOAN11_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [2016030003]
+ PARAM NAME : [param02]   VAL : [L00300]
+2020-11-27 17:09:28 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_LOAN11_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST004]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [2016030003]
+ PARAM NAME : [param02]   VAL : [L00300]
+2020-11-27 17:09:33 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_MESG01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [msg_type]   VAL : [SLP006]
+ PARAM NAME : [search_key]   VAL : [ACCTB_SLIP01|20160321L0003|2016030003]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 17:09:33 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_MESG02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [201603210003]
+2020-11-27 17:10:37 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_MAST01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [S02600]
+ PARAM NAME : [param06]   VAL : [20010901]
+2020-11-27 17:10:37 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CODE02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [param01]   VAL : [sign_status]
+2020-11-27 17:10:38 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_CODE01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [bugt_cd]   VAL : [S02600]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 17:10:38 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [empl_no]   VAL : [20010901]
+ PARAM NAME : [connect_ip]   VAL : [112.220.113.50]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 17:10:38 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CODE02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [MULTCODE]
+ PARAM NAME : [param01]   VAL : [tel_no|bank_cd@@@@A|]
+2020-11-27 17:10:49 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_MAST01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [apply_no]   VAL : [2020010001]
+ PARAM NAME : [bugt_cd]   VAL : [S02600]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 17:10:52 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_MAST01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [S02302]
+ PARAM NAME : [param06]   VAL : [20010901]
+2020-11-27 17:10:52 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CODE02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [param01]   VAL : [sign_status]
+2020-11-27 17:10:52 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_CODE01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [bugt_cd]   VAL : [S02302]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 17:10:52 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [empl_no]   VAL : [20010901]
+ PARAM NAME : [connect_ip]   VAL : [112.220.113.50]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 17:10:52 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CODE02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [MULTCODE]
+ PARAM NAME : [param01]   VAL : [|bank_cd@@@@A|]
+2020-11-27 17:10:53 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL12_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [20010901]
+ PARAM NAME : [param02]   VAL : [00]
+2020-11-27 17:10:59 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_MAST01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [S02301]
+ PARAM NAME : [param06]   VAL : [20010901]
+2020-11-27 17:10:59 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CODE02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [param01]   VAL : [sign_status]
+2020-11-27 17:11:00 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_CODE01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [bugt_cd]   VAL : [S02301]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 17:11:00 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [empl_no]   VAL : [20010901]
+ PARAM NAME : [connect_ip]   VAL : [112.220.113.50]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 17:11:00 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CODE02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [MULTCODE]
+ PARAM NAME : [param01]   VAL : [|bank_cd@@@@A|]
+2020-11-27 17:11:00 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL12_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [param01]   VAL : [20010901]
+ PARAM NAME : [param02]   VAL : [00]
+2020-11-27 17:11:07 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_MAST01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [apply_no]   VAL : [2016110010]
+ PARAM NAME : [bugt_cd]   VAL : [S02301]
+ PARAM NAME : [sys_reg_id]   VAL : [20010901]
+2020-11-27 21:38:43 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+2020-11-27 21:38:48 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_LOGIN]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [user_id]   VAL : [admin]
+ PARAM NAME : [pswd]   VAL : [$u9o3767]
+ PARAM NAME : [connect_ip]   VAL : [221.155.229.116]
+2020-11-27 21:38:48 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [UPDATE_CNT]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [empl_no]   VAL : [admin]
+ PARAM NAME : [user_id]   VAL : [admin]
+ PARAM NAME : [pswd]   VAL : [$u9o3767]
+ PARAM NAME : [connect_ip]   VAL : [221.155.229.116]
+2020-11-27 21:38:48 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_SYSTB_DATE01 (? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [UPDATE_CNT]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+2020-11-27 21:38:48 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_SYSTB_MENU01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [admin]
+2020-11-27 21:38:48 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CORP01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [corp_cd]   VAL : [SABOK01]
+ PARAM NAME : [sys_reg_id]   VAL : [admin]
+2020-11-27 21:38:48 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_MESG02 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_RECEIVE_COUNT]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [sign_empl_no]   VAL : [admin]
+ PARAM NAME : [sys_reg_id]   VAL : [admin]
+2020-11-27 21:38:48 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [empl_no]   VAL : [admin]
+ PARAM NAME : [connect_ip]   VAL : [221.155.229.116]
+ PARAM NAME : [sys_reg_id]   VAL : [admin]
+2020-11-27 21:38:48 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+2020-11-27 21:38:48 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_MESG01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [admin]
+ PARAM NAME : [param07]   VAL : [1,2]
+2020-11-27 21:38:48 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BOKTB_MAST01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST004]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [admin]
+ PARAM NAME : [param07]   VAL : [1,2]
+2020-11-27 21:38:48 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_CORP01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+2020-11-27 21:38:48 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_SYSTB_MEMO01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [admin]
+ PARAM NAME : [param02]   VAL : [202011]
+ PARAM NAME : [param07]   VAL : [1,2]
+2020-11-27 21:38:48 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_SYSTB_DATE01 (? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_WEEKLY]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [sys_ymd]   VAL : [20201127]
+ PARAM NAME : [sys_reg_id]   VAL : [admin]
+2020-11-27 21:38:49 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_CODE01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+2020-11-27 21:38:57 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST004]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [2020]
+2020-11-27 21:38:57 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [2020]
+ PARAM NAME : [param02]   VAL : [6100101]
+2020-11-27 21:39:00 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [2020]
+ PARAM NAME : [param02]   VAL : [1110902]
+2020-11-27 21:39:01 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_CODE01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [bugt_cd]   VAL : [L00100]
+ PARAM NAME : [acct_cd]   VAL : [1210301]
+ PARAM NAME : [sys_reg_id]   VAL : [admin]
+2020-11-27 21:39:01 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001B]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [2020]
+ PARAM NAME : [param02]   VAL : [L00100]
+2020-11-27 21:39:42 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [2020]
+ PARAM NAME : [param02]   VAL : [7220901]
+2020-11-27 21:40:17 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [2020]
+ PARAM NAME : [param02]   VAL : [S]
+2020-11-27 21:40:23 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [2019]
+ PARAM NAME : [param02]   VAL : [S]
+2020-11-27 21:41:11 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST003]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [ACC001P]
+ PARAM NAME : [param02]   VAL : [2020]
+2020-11-27 21:44:24 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST003]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [ACC002P]
+ PARAM NAME : [param02]   VAL : [2020]
+2020-11-27 21:46:50 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [2020]
+2020-11-27 21:46:58 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [2019]
+2020-11-27 21:47:21 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST003]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [ACC002P]
+ PARAM NAME : [param02]   VAL : [2020]
+ PARAM NAME : [param05]   VAL : [Y]
+2020-11-27 21:47:27 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST003]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [ACC002P]
+ PARAM NAME : [param02]   VAL : [2019]
+ PARAM NAME : [param05]   VAL : [Y]
+2020-11-27 21:47:32 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT02_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST003]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [ACC002P]
+ PARAM NAME : [param02]   VAL : [2020]
+ PARAM NAME : [param05]   VAL : [Y]
+2020-11-27 21:47:54 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LISTCODE]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [2020]
+ PARAM NAME : [param02]   VAL : [S]
+ PARAM NAME : [param05]   VAL : [Y]
+2020-11-27 21:47:59 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002B]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [2020]
+ PARAM NAME : [param02]   VAL : [S00100]
+ PARAM NAME : [param03]   VAL : [1]
+2020-11-27 21:47:59 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002A]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [2020]
+ PARAM NAME : [param02]   VAL : [S00100]
+ PARAM NAME : [param03]   VAL : [1]
+2020-11-27 21:48:37 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST003A]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [1]
+ PARAM NAME : [param02]   VAL : [2011]
+ PARAM NAME : [param03]   VAL : [2020]
+2020-11-27 21:48:44 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST003A]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [1]
+ PARAM NAME : [param02]   VAL : [2011]
+ PARAM NAME : [param03]   VAL : [2020]
+2020-11-27 21:48:44 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST003B]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [1]
+ PARAM NAME : [param02]   VAL : [2011]
+ PARAM NAME : [param03]   VAL : [2020]
+2020-11-27 21:48:44 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST003C]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [1]
+ PARAM NAME : [param02]   VAL : [2011]
+ PARAM NAME : [param03]   VAL : [2020]
+ PARAM NAME : [param04]   VAL : [S00100|S00200|S00300|S00400|S00500|S00600|S00700|S70000|S90000|L00100|L00200|L00300|L00400|L00600|L00700|]
+2020-11-27 21:48:44 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST003C]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [1]
+ PARAM NAME : [param02]   VAL : [2011]
+ PARAM NAME : [param03]   VAL : [2020]
+ PARAM NAME : [param04]   VAL : [S00100|S00200|S00300|S00400|S00500|S00600|S00700|S70000|S90000|L00100|L00200|L00300|L00400|L00600|L00700|]
+2020-11-27 21:48:46 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_BUDTB_BUGT01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST003A]
+ PARAM NAME : [dbo]   VAL : [SABOK01]
+ PARAM NAME : [param01]   VAL : [1]
+ PARAM NAME : [param02]   VAL : [2011]
+ PARAM NAME : [param03]   VAL : [2020]

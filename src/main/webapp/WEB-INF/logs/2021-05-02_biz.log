@@ -1,0 +1,27 @@
+2021-05-02 20:32:02 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+2021-05-02 20:32:54 오후 ERROR [egovframework.ubiz.web.OtherController] FileNotFoundException: D:\project\sabok\upload_data (액세스가 거부되었습니다)
+2021-05-02 20:32:59 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [inform_no]   VAL : [58]
+ PARAM NAME : [popup_yn]   VAL : [Y]
+2021-05-02 20:32:59 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [UPDATE_CNT]
+ PARAM NAME : [inform_no]   VAL : [58]
+ PARAM NAME : [popup_yn]   VAL : [Y]
+2021-05-02 20:32:59 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_FILE01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [param01]   VAL : [COMTB_NOTI01]
+ PARAM NAME : [param02]   VAL : [58]
+2021-05-02 20:33:12 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT]
+ PARAM NAME : [inform_no]   VAL : [9]
+ PARAM NAME : [popup_yn]   VAL : [Y]
+2021-05-02 20:33:12 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [UPDATE_CNT]
+ PARAM NAME : [inform_no]   VAL : [9]
+ PARAM NAME : [popup_yn]   VAL : [Y]
+2021-05-02 20:33:12 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_FILE01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST001]
+ PARAM NAME : [param01]   VAL : [COMTB_NOTI01]
+ PARAM NAME : [param02]   VAL : [9]

@@ -1,0 +1,55 @@
+GATEWAY	2018-03-26 15:31:38	[SEND REQUEST]
+
+FORM	2018-03-26 15:31:38	[REQUEST FILE]
+- Report : D:/project/sabok/account/report/slipDetailView.jrf
+
+DATA	2018-03-26 15:31:38	DATA QUERY START
+- sql id : LIST002
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_ACCTB_SLIP02_LIST( 'LIST002',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK22#String#20180326B0002#String##String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-26 15:31:38	GET DATA
+- Row size : 2
+DATA	2018-03-26 15:31:38	DATA QUERY END
+DATA	2018-03-26 15:31:38	DATA QUERY START
+- sql id : SLIP_DETAIL
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_REPORT_SQL( 'SLIP_DETAIL',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK22#String#20180326B0002#String##String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-26 15:31:38	GET DATA
+- Row size : 1
+DATA	2018-03-26 15:31:38	DATA QUERY END
+GATEWAY	2018-03-26 15:31:38	[SEND RESPONSE]
+
+GATEWAY	2018-03-26 15:31:42	[SEND REQUEST]
+
+GATEWAY	2018-03-26 15:31:42	[SEND RESPONSE]
+
+GATEWAY	2018-03-26 18:16:00	[SEND REQUEST]
+
+FORM	2018-03-26 18:16:00	[REQUEST FILE]
+- Report : D:/project/sabok/account/report/ACC001.jrf
+
+DATA	2018-03-26 18:16:00	DATA QUERY START
+- sql id : ACC001
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_ACCTB_SUMM02_LIST( ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#LIST001#String#SABOK25#String#ACC001#String#201612#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-26 18:16:00	GET DATA
+- Row size : 43
+DATA	2018-03-26 18:16:00	DATA QUERY END
+GATEWAY	2018-03-26 18:16:00	[SEND RESPONSE]
+
+GATEWAY	2018-03-26 18:16:18	[SEND REQUEST]
+
+GATEWAY	2018-03-26 18:16:18	[SEND RESPONSE]
+

@@ -1,0 +1,38 @@
+2020-07-11 18:42:19 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_COMTB_NOTI01_LIST (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [LIST002]
+2020-07-11 18:42:48 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_LOGIN]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [user_id]   VAL : [kwgil]
+ PARAM NAME : [pswd]   VAL : [0070]
+ PARAM NAME : [connect_ip]   VAL : [211.226.203.220]
+2020-07-11 18:43:02 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_LOGIN]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [user_id]   VAL : [20200203]
+ PARAM NAME : [pswd]   VAL : [0070]
+ PARAM NAME : [connect_ip]   VAL : [211.226.203.220]
+2020-07-11 18:43:08 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_LOGIN]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [user_id]   VAL : [20200203]
+ PARAM NAME : [pswd]   VAL : [insane367]
+ PARAM NAME : [connect_ip]   VAL : [211.226.203.220]
+2020-07-11 18:43:15 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_LOGIN]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [user_id]   VAL : [20200203]
+ PARAM NAME : [pswd]   VAL : [890806]
+ PARAM NAME : [connect_ip]   VAL : [211.226.203.220]
+2020-07-11 18:43:20 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_LOGIN]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [user_id]   VAL : [20200203]
+ PARAM NAME : [pswd]   VAL : [1167412]
+ PARAM NAME : [connect_ip]   VAL : [211.226.203.220]
+2020-07-11 19:49:09 오후 DEBUG [egovframework.cbiz.service.impl.CommDBDAO] {call PR_INSTB_EMPL01 (? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? ,? )}
+ PARAM NAME : [action_type]   VAL : [SELECT_LOGIN]
+ PARAM NAME : [dbo]   VAL : [SABOK06]
+ PARAM NAME : [user_id]   VAL : [20200203]
+ PARAM NAME : [pswd]   VAL : [20200203]
+ PARAM NAME : [connect_ip]   VAL : [211.226.203.220]

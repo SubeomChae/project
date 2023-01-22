@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* *********************************************
+Project ===== 
+FileName ==== 
+Author ====== name
+Date ======== 2017-09-23
+Last ======== 
+********************************************* */
+
+html {min-width:auto !important;}
+
+.error-page {
+	background-color: #ffffff !important;
+	height:100%;
+}
+.error-page .logo {
+	margin: 0px auto 20px auto;
+	padding: 10% 15px 15px 15px;
+	text-align: center;
+}
+.error-page .content {
+	border:1px solid #c2cad8;
+	background-color: #fff;
+	width: 600px;
+	margin: 0 auto;
+	margin-bottom: 0px;
+	padding: 30px;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	-ms-border-radius: 7px;
+	-o-border-radius: 7px;
+	border-radius: 7px;
+}
+.error-page .number {
+	position:relative;
+	float:left;
+	display:inline-block;
+	margin-top:0;
+	letter-spacing:-10px;
+	line-height:128px;
+	font-weight:300;
+	font-size:128px;
+}
+.error-page .number.under {
+	font-size:100px;
+}
+.error-page .details {
+	padding-top:0;
+	text-align:left;
+	margin-left:40px;
+	display:inline-block;
+}
+.error-page .details h3 {
+	margin:0px 10px 10px 0px;
+}

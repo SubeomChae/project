@@ -1,0 +1,153 @@
+/* Calendar css */ 
+
+SELECT {
+	height   :20px;
+  	font-size :11px;
+  	font-family:"Dotum", "Arial";
+  	color   :#333333;
+ 	border-right:#e6e6e6 1px solid;
+ 	border-top :#e6e6e6 1px solid;
+ 	border-left:#e6e6e6 1px solid;
+ 	border-bottom:#e6e6e6 1px solid;
+}
+
+.schedule_number_black{font-family: "Verdana", "돋움"; font-size: 11px; line-height: 16px; color: #000000;  font-weight: bold;}
+
+.schedule_number_black a:link {text-decoration: none ; color: #000000;}
+
+.schedule_number_black a:visited {text-decoration: none ; color: #000000;}
+
+.schedule_number_black a:active {text-decoration: none ; color: #000000;}
+
+.schedule_number_black a:hover {text-decoration: underline ; color: #630460;}
+
+
+
+.schedule_number_gray {font-family: "Verdana", "돋움"; font-size: 11px; line-height: 16px; color: #797979; text-decoration: none; font-weight: bold;}
+
+.schedule_number_gray a:link {text-decoration: none ; color: #797979;}
+
+.schedule_number_gray a:visited {text-decoration: none ; color: #797979;}
+
+.schedule_number_gray a:active {text-decoration: none ; color: #797979;}
+
+.schedule_number_gray a:hover {text-decoration: underline ; color: #630460;}
+
+
+
+.schedule_number_blue {font-family: "Verdana", "돋움"; font-size: 11px; line-height: 16px; color: #1B1464; text-decoration: none; font-weight: bold;}
+
+.schedule_number_blue a:link {text-decoration: none ; color: #1B1464;}
+
+.schedule_number_blue a:visited {text-decoration: none ; color: #1B1464;}
+
+.schedule_number_blue a:active {text-decoration: none ; color: #1B1464;}
+
+.schedule_number_blue a:hover {text-decoration: underline ; color: #1B1464;}
+
+
+
+.schedule_number_red {font-family: "Verdana", "돋움"; font-size: 11px; line-height: 16px; color: #740000; text-decoration: none; font-weight: bold;}
+
+.schedule_number_red a:link {text-decoration: none ; color: #740000;}
+
+.schedule_number_red a:visited {text-decoration: none ; color: #740000;}
+
+.schedule_number_red a:active {text-decoration: none ; color: #740000;}
+
+.schedule_number_red a:hover {text-decoration: underline ; color: #740000;}
+
+
+
+.schedule_number_today {font-family: "Verdana", "돋움"; font-size: 11px; line-height: 16px; color: peru; text-decoration: none; font-weight: bold;}
+
+.schedule_number_today a:link {text-decoration: none ; color: peru;}
+
+.schedule_number_today a:visited {text-decoration: none ; color: peru;}
+
+.schedule_number_today a:active {text-decoration: none ; color: peru;}
+
+.schedule_number_today a:hover {text-decoration: underline ; color: peru;}
+
+  
+
+.schedule_title_red {
+
+     font-family: "Verdana", "돋움"; 
+
+	 font-size: 13px; 
+
+	 line-height: 16px; 
+
+	 color: #740000; 
+
+	 text-decoration: none;
+
+	 font-weight: bold;
+
+}
+
+
+
+.schedule_table_header_center {
+
+	height: 22px;
+
+	background-color: #E8E8E8;
+
+	text-align: center;
+
+	font-family: "Verdana", "돋움";
+
+	font-size: 11px;
+
+}
+
+
+
+.schedule_table_header_center_sun {
+
+	height: 22px;
+
+	background-color: #FAF2F2;
+
+	text-align: center;
+
+	font-family: "Verdana", "돋움";
+
+	font-size: 11px;
+
+}
+
+
+
+.schedule_table_header_center_sat {
+
+	height: 22px;
+
+	background-color: #E7F9FF;
+
+	text-align: center;
+
+	font-family: "Verdana", "돋움";
+
+	font-size: 11px;
+
+}
+
+
+
+.table_bg {
+
+	background-color: #C0C0C0;
+
+}
+
+
+
+
+
+
+
+
+

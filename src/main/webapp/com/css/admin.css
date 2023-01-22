@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* *********************************************
+Project =====
+FileName ====
+Author ====== name
+Date ======== 2017-09-23
+Last ========
+********************************************* */
+
+
+/* --------------------------------------------
+ * 어드민
+/* ------------------------------------------ */
+.page-admin .page-content-wrapper .page-content { margin-right:0px; }
+.page-admin .page-header.navbar .page-logo { margin:0px 40px 0 20px; width:175px; }
+
+.page-admin #nav .dropdown-menu { background-color:#1b4e8c !important; }
+.page-admin #nav .dropdown-menu li a:hover,
+.page-admin #nav .dropdown-menu li a.active { background-color:#1b4579 !important; }
+.page-admin #nav .dropdown-menu > li:hover > a,
+.page-admin #nav .dropdown-menu > li.active > a,
+.page-admin #nav .dropdown-menu > li.active:hover > a { background-color: #1b3d68; color: #fff; }
+
+.page-admin .page-content-wrapper .page-content {margin-left:235px; border-left:1px solid #b8bfc6;}
+
+/* header */
+.page-admin .page-header.navbar { background:#2663af; }
+.page-admin .page-header.navbar .page-logo { width:230px; height:83px; line-height:83px; margin:0px 0px 0 5px;padding:0; }
+.page-admin .page-header.navbar .page-logo .logo-default {line-height:0;margin:0;}
+.page-admin .page-header.navbar .top-menu { height:83px; line-height:83px; }
+.page-admin .page-header.navbar .top-menu .navbar-nav { margin:22px 20px 0px 0px; height:34px; line-height:34px; }
+.page-admin .page-header .page-header-inner #nav li { border-right:1px solid #3e78bf; }
+.page-admin .page-header .page-header-inner #nav li a {color:#fff; display:block; font-size:15px; padding:0px 10px;}
+.page-admin .page-header .page-header-inner #nav li a:hover,
+.page-admin .page-header .page-header-inner #nav li a.active { background-color:#1b4e8c; color:#fff; }
+.page-admin .page-header .page-header-inner #nav { border-left:1px solid #3e78bf; }
+.page-admin .page-header.navbar .top-menu .navbar-nav > li.dropdown { height:34px; padding:0px 10px 0px 2px; }
+.page-admin .page-header.navbar .top-menu .navbar-nav > li.dropdown > .dropdown-toggle {padding:8px 4px 6px 4px;}
+.page-admin .page-header.navbar .top-menu .navbar-nav > li.dropdown-user > .dropdown-toggle > .username {color:#fff;}
+.page-admin .page-header.navbar .top-menu .navbar-nav > li.dropdown-user > .dropdown-toggle > .username span {color:#002838;}
+.page-admin .page-header.navbar .top-menu .navbar-nav > li.dropdown-extended {background:url(../../com/img/bu_top-menu.png) no-repeat 100% center;}
+.page-admin .page-header.navbar .top-menu .navbar-nav > li:nth-last-child(2).dropdown-extended {background:none !important;}
+.page-admin .page-header.navbar .top-menu .navbar-nav > li.dropdown .dropdown-toggle:hover {background:none;}
+.page-admin .page-header.navbar .top-menu .navbar-nav > li.dropdown.dropdown-user {margin:0 2px;}
+.page-admin .page-header.navbar .top-menu .navbar-nav > li.dropdown:last-child { padding:0px; }
+.page-admin .page-header-fixed .page-wrapper .nav_area {width:1558px;height:418px;border:2px solid #000;padding:30px 0;overflow:auto;position:absolute;top:83px;left:50%;z-index:9999;margin-left:-779px;background:#fafafa;display:none; border:1px solid #3a8cf3;}
+.page-admin .page-header-fixed .page-wrapper .nav_area .nav_inner {overflow:hidden;width:2136px;position:relative;}
+.page-admin .page-header-fixed .page-wrapper .nav_area .nav_box {float:left;border-right:1px solid #c7c7c7;padding:0 24px 0 26px;width:267px;min-height:500px;}
+
+.page-admin .page-footer .page-footer-inner {padding-top: 0px;}
+.page-admin .page-footer .page-footer-inner .page-footer-container .address {display:inline-block;}
+.page-admin .page-footer .page-footer-inner .page-footer-container .tel {display:inline-block;}

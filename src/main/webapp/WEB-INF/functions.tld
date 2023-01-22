@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<taglib 
+    xmlns="http://java.sun.com/xml/ns/javaee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-jsptaglibrary_2_1.xsd"
+    version="2.1">
+
+    <display-name>Custom Functions</display-name>    
+    <tlib-version>1.0</tlib-version>
+    <short-name>f</short-name>
+    <uri>/WEB-INF/functions</uri>
+
+    <function>
+        <name>getSelectCodeList</name>
+        <function-class>egovframework.cbiz.TagUtil</function-class>
+        <function-signature>java.lang.String getSelectCodeList(java.lang.String, java.lang.String, java.lang.String, java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>replaceAll</name>
+        <function-class>egovframework.cbiz.TagUtil</function-class>
+        <function-signature>java.lang.String replaceAll(java.lang.String, java.lang.String, java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>replaceNlToBR</name>
+        <function-class>egovframework.cbiz.TagUtil</function-class>
+        <function-signature>java.lang.String replaceNlToBR(java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>getXss</name>
+        <function-class>egovframework.cbiz.TagUtil</function-class>
+        <function-signature>java.lang.String getXss(java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>replceHtmlToText</name>
+        <function-class>egovframework.cbiz.TagUtil</function-class>
+        <function-signature>java.lang.String replceHtmlToText(java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>replceHtmlToTextCut</name>
+        <function-class>egovframework.cbiz.TagUtil</function-class>
+        <function-signature>java.lang.String replceHtmlToTextCut(java.lang.String, int)</function-signature>
+    </function>
+    <function>
+        <name>textCut</name>
+        <function-class>egovframework.cbiz.TagUtil</function-class>
+        <function-signature>java.lang.String textCut(java.lang.String, int)</function-signature>
+    </function>
+    <function>
+        <name>padLeftStr0</name>
+        <function-class>egovframework.cbiz.TagUtil</function-class>
+        <function-signature>java.lang.String padLeftStr0(java.lang.String, int)</function-signature>
+    </function> 
+    
+    <function>
+        <name>padLeftInt0</name>
+        <function-class>egovframework.cbiz.TagUtil</function-class>
+        <function-signature>java.lang.String padLeftInt0(int, int)</function-signature>
+    </function>
+    <function>
+        <name>getHtml</name>
+        <function-class>egovframework.cbiz.TagUtil</function-class>
+        <function-signature>java.lang.String getHtml(java.lang.String)</function-signature>
+    </function>
+     
+    <function>
+        <name>nvl</name>
+        <function-class>egovframework.cbiz.TagUtil</function-class>
+        <function-signature>java.lang.String nvl(java.lang.String, java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>defDateFmt</name>
+        <function-class>egovframework.cbiz.TagUtil</function-class>
+        <function-signature>java.lang.String defDateFmt(java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>urlEncoder</name>
+        <function-class>egovframework.cbiz.TagUtil</function-class>
+        <function-signature>java.lang.String urlEncoder(java.lang.String, java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>fmDate</name>
+        <function-class>egovframework.cbiz.TagUtil</function-class>
+        <function-signature>java.lang.String fmDate(java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>fmtStr</name>
+        <function-class>egovframework.cbiz.TagUtil</function-class>
+        <function-signature>java.lang.String fmtStr(java.lang.String, java.lang.String)</function-signature>
+    </function>
+    
+    <function>
+        <name>getMultiCodeList</name>
+        <function-class>egovframework.cbiz.TagUtil</function-class>
+        <function-signature>egovframework.cbiz.RsWrapper getMultiCodeList(java.lang.String, java.lang.String, java.lang.String)</function-signature>
+    </function>
+    
+    <function>
+        <name>optMultList</name>
+        <function-class>egovframework.cbiz.TagUtil</function-class>
+        <function-signature>java.lang.String optMultList(egovframework.cbiz.RsWrapper, java.lang.String, java.lang.String)</function-signature>
+    </function>
+    
+    <function>
+        <name>optList</name>
+        <function-class>egovframework.cbiz.TagUtil</function-class>
+        <function-signature>java.lang.String optList(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)</function-signature>
+    </function>
+    
+    <function>
+        <name>makePaging</name>
+        <function-class>egovframework.cbiz.TagPageUtil</function-class>
+        <function-signature>java.lang.String makePaging(egovframework.cbiz.Box, egovframework.cbiz.RsWrapper, java.lang.String, java.lang.String, javax.servlet.http.HttpServletRequest)</function-signature>
+    </function>
+    
+    <function>
+        <name>arrayCol</name>
+        <function-class>egovframework.cbiz.StringUtil</function-class>
+        <function-signature>java.lang.String arrayCol(java.lang.String, int, java.lang.String)</function-signature>
+    </function>
+    
+    <function>
+        <name>getRsWrapper</name>
+        <function-class>egovframework.cbiz.TagPageUtil</function-class>
+        <function-signature>java.lang.String getRsWrapper(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)</function-signature>
+    </function>
+</taglib>

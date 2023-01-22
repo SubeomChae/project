@@ -1,0 +1,29 @@
+GATEWAY	2018-05-02 18:01:01	[SEND REQUEST]
+
+FORM	2018-05-02 18:01:01	[REQUEST FILE]
+- Report : D:/project/sabok/welfare/SABOK06/report/s004.jrf
+
+DATA	2018-05-02 18:01:02	DATA QUERY START
+- sql id : WEL01001
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_REPORT_SQL( 'WEL01001',  'SABOK06',  '2018050011',  'S00400',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-05-02 18:01:02	GET DATA
+- Row size : 1
+DATA	2018-05-02 18:01:02	DATA QUERY END
+DATA	2018-05-02 18:01:02	DATA QUERY START
+- sql id : SIGNLINE
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_REPORT_SQL( 'SIGNLINE',  'SABOK06',  'SLP002',   'ACCTB_SLIP01|20180502S0002|2018050011|S00400',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-05-02 18:01:02	GET DATA
+- Row size : 1
+DATA	2018-05-02 18:01:02	DATA QUERY END
+GATEWAY	2018-05-02 18:01:02	[SEND RESPONSE]
+

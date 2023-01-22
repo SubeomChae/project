@@ -1,0 +1,48 @@
+/* 추가 */
+.table-cover {border-top: 2px solid #114672 !important;} 
+
+.safety-grade-a {background:#5cb85c; padding: 2px 10px; color:#fff; font-weight: bold; font-size: 14px !important;}
+.safety-grade-b {background:#337ab7; padding: 2px 10px; color:#fff; font-weight: bold; font-size: 14px !important;}
+.safety-grade-c {background:#EDD200; padding: 2px 10px; color:#fff; font-weight: bold; font-size: 14px !important;}
+.safety-grade-d {background:#FFBB00; padding: 2px 10px; color:#fff; font-weight: bold; font-size: 14px !important;}
+.safety-grade-e {background:#FF5E00; padding: 2px 10px; color:#fff; font-weight: bold; font-size: 14px !important;}
+.safety-grade-x {background:#0A578A; padding: 2px 10px; color:#fff; font-weight: bold; font-size: 12px !important;}
+
+.ztree-active { background-color: #ffff00; font-weight : bold; font-size: 15px !important; }
+
+.con-top {border-top:3px solid RED !important; box-sizing:border-box; }
+.con-left {border-left:3px solid RED !important; box-sizing:border-box; }
+.con-right {border-right:3px solid RED !important; box-sizing:border-box; }
+.con-bot {border-bottom:3px solid RED !important; box-sizing:border-box; }
+
+.tr-summary {background-color:#ebebeb !important; }
+
+.w3-border{border:1px solid #ccc!important}
+.w3-container{padding:0.01em 16px}.w3-panel{margin-top:16px;margin-bottom:16px}
+.w3-container:after,.w3-container:before{content:"";display:table;clear:both}
+.w3-padding{padding:8px 16px!important}
+.w3-green{color:#fff!important;background-color:#4CAF50!important}
+
+/* 수정 */
+.table { max-width: none; }
+.table-bordered { font-family: Dotum,'돋움',Helvetica,"Apple SD Gothic Neo",sans-serif !important; border: 0px; }
+.table .btn { margin-top: 0px; margin-left: 0px;  margin-right: 0px; }
+.notice-view span {	font-weight:inherit !important; }
+
+.acc-border {
+	border-top:0 !important;
+	border-right:0 !important;
+	border-bottom:1px solid black !important;
+	border-left:0 !important;
+}
+
+body .page-title-2depths {
+	font-size:16px;
+	color:#000;
+	margin:5px 0px 5px 0px;
+	padding:0px 0px 0px 20px;
+	background:url(../../com/img/bu_title_2depth.png) no-repeat left 61%;
+	text-align: left;
+}
+
+.table.table-bordered thead > tr > th { border-bottom: 1px !important; }

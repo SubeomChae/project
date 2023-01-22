@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<decorators defaultdir="/WEB-INF/jsp/com/decorators">
+
+	<excludes>
+		<pattern>/com/codeList.do</pattern>
+		<pattern>/com/fileDownload.do</pattern>
+		<pattern>/com/redirectEx.do</pattern>
+		<pattern>/com/*Form.do</pattern>
+	</excludes>
+
+	<decorator name="nodeco" page="no_deco.jsp">
+		<pattern>/com/*Frame.do</pattern>
+		<pattern>/welfare/nd/*.do</pattern>
+	</decorator>
+
+	<decorator name="popdeco" page="popup_deco.jsp">
+		<pattern>/popup/*.do</pattern>
+		<pattern>/account/pd/*.do</pattern>
+		<pattern>/admenu/pd/*.do</pattern>
+		<pattern>/com/pd/*.do</pattern>
+		<pattern>/budget/pd/*.do</pattern>
+		<pattern>/community/pd/*.do</pattern>
+		<pattern>/esign/pd/*.do</pattern>
+		<pattern>/loan/pd/*.do</pattern>
+		<pattern>/welfare/pd/*.do</pattern>
+	</decorator>
+
+	<decorator name="frmdeco" page="frame_deco.jsp">
+		<pattern>/admenu/fd/*.do</pattern>
+		<pattern>/com/fd/*.do</pattern>
+		<pattern>/insa/fd/*.do</pattern>
+		<pattern>/budget/fd/*.do</pattern>
+		<pattern>/community/fd/*.do</pattern>
+		<pattern>/finance/fd/*.do</pattern>
+		<pattern>/loan/fd/*.do</pattern>
+		<pattern>/welfare/fd/*.do</pattern>
+		<pattern>/account/fd/*.do</pattern>
+		<pattern>/esign/fd/*.do</pattern>
+		<pattern>/tax/fd/*.do</pattern>
+		<pattern>/popup/fd/slipView.do</pattern>
+	</decorator>
+
+	<decorator name="default" page="mainf_deco.jsp">
+		<pattern>/admenu/*.do</pattern>
+		<pattern>/com/*.do</pattern>
+		<pattern>/com/rightFrame.do</pattern>
+		<pattern>/insa/*.do</pattern>
+		<pattern>/budget/*.do</pattern>
+		<pattern>/community/*.do</pattern>
+		<pattern>/welfare/*.do</pattern>
+		<pattern>/finance/*.do</pattern>
+		<pattern>/loan/*.do</pattern>
+		<pattern>/account/*.do</pattern>
+		<pattern>/tax/*.do</pattern>
+		<pattern>/esign/*.do</pattern>
+	</decorator>
+
+	<decorator name="nodeco2" page="no_deco2.jsp">
+		<pattern>/account/fd/*_excel.do</pattern>
+		<pattern>/tax/fd/*_excel.do</pattern>
+	</decorator>
+
+	<decorator name="nodeco3" page="no_deco3.jsp">
+		<pattern>/com/HtmlViewer.do</pattern>
+	</decorator>
+</decorators>
+ 

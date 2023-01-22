@@ -1,0 +1,1199 @@
+GATEWAY	2018-03-29 10:06:18	[SEND REQUEST]
+
+FORM	2018-03-29 10:06:18	[REQUEST FILE]
+- Report : D:/project/sabok/account/report/ACC001.jrf
+
+DATA	2018-03-29 10:06:18	DATA QUERY START
+- sql id : ACC001
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_ACCTB_SUMM02_LIST( ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#LIST001#String#SABOK38#String#ACC001#String#201712#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:06:18	GET DATA
+- Row size : 56
+DATA	2018-03-29 10:06:18	DATA QUERY END
+GATEWAY	2018-03-29 10:06:18	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:06:32	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:06:32	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:11:22	[SEND REQUEST]
+
+FORM	2018-03-29 10:11:22	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02001_1.jrf
+
+DATA	2018-03-29 10:11:22	DATA QUERY START
+- sql id : ADJ02001_1
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02001_1',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02001_1#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:11:22	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:11:22	DATA QUERY END
+GATEWAY	2018-03-29 10:11:22	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:11:27	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:11:28	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:12:06	[SEND REQUEST]
+
+FORM	2018-03-29 10:12:06	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02001_2.jrf
+
+DATA	2018-03-29 10:12:06	DATA QUERY START
+- sql id : ADJ02001_2
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02001_2',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02001_2#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:12:06	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:12:06	DATA QUERY END
+GATEWAY	2018-03-29 10:12:07	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:12:11	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:12:12	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:12:25	[SEND REQUEST]
+
+FORM	2018-03-29 10:12:25	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02003_1.jrf
+
+DATA	2018-03-29 10:12:25	DATA QUERY START
+- sql id : ADJ02003_1
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02003_1',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02003_1#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:12:25	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:12:25	DATA QUERY END
+GATEWAY	2018-03-29 10:12:26	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:12:30	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:12:31	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:12:44	[SEND REQUEST]
+
+FORM	2018-03-29 10:12:44	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02003_2.jrf
+
+DATA	2018-03-29 10:12:44	DATA QUERY START
+- sql id : ADJ02003_2
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02003_2',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02003_2#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:12:44	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:12:44	DATA QUERY END
+GATEWAY	2018-03-29 10:12:44	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:12:47	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:12:48	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:13:03	[SEND REQUEST]
+
+FORM	2018-03-29 10:13:03	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02003_3_4.jrf
+
+DATA	2018-03-29 10:13:03	DATA QUERY START
+- sql id : ADJ02003_3_4
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02003_3_4',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02003_3_4#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:13:03	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:13:03	DATA QUERY END
+GATEWAY	2018-03-29 10:13:03	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:13:07	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:13:08	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:13:26	[SEND REQUEST]
+
+FORM	2018-03-29 10:13:26	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02010_a.jrf
+
+DATA	2018-03-29 10:13:26	DATA QUERY START
+- sql id : ADJ02010_A_OBOX
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02010_A_OBOX',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02010_A#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:13:26	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:13:26	DATA QUERY END
+DATA	2018-03-29 10:13:26	DATA QUERY START
+- sql id : ADJ02010_A_LIST
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02010_A_LIST',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02010_A#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:13:26	GET DATA
+- Row size : 3
+DATA	2018-03-29 10:13:26	DATA QUERY END
+GATEWAY	2018-03-29 10:13:26	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:13:29	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:13:30	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:13:45	[SEND REQUEST]
+
+FORM	2018-03-29 10:13:45	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02015.jrf
+
+DATA	2018-03-29 10:13:45	DATA QUERY START
+- sql id : ADJ02015_LIST
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02015_LIST',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02015#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:13:45	GET DATA
+- Row size : 0
+DATA	2018-03-29 10:13:45	DATA QUERY END
+DATA	2018-03-29 10:13:45	DATA QUERY START
+- sql id : ADJ02015_OBOX
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02015_OBOX',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02015#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:13:46	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:13:46	DATA QUERY END
+GATEWAY	2018-03-29 10:13:46	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:13:49	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:13:49	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:14:03	[SEND REQUEST]
+
+FORM	2018-03-29 10:14:03	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02015_1.jrf
+
+DATA	2018-03-29 10:14:03	DATA QUERY START
+- sql id : ADJ02015_1_OBOX
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02015_1_OBOX',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02015_1#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:14:03	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:14:03	DATA QUERY END
+DATA	2018-03-29 10:14:03	DATA QUERY START
+- sql id : ADJ02015_1_LIST
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02015_1_LIST',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02015_1#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:14:03	GET DATA
+- Row size : 0
+DATA	2018-03-29 10:14:03	DATA QUERY END
+GATEWAY	2018-03-29 10:14:03	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:14:06	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:14:06	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:14:18	[SEND REQUEST]
+
+FORM	2018-03-29 10:14:18	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02015_2.jrf
+
+DATA	2018-03-29 10:14:18	DATA QUERY START
+- sql id : ADJ02015_2_OBOX
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02015_2_OBOX',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02015_2#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:14:18	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:14:18	DATA QUERY END
+DATA	2018-03-29 10:14:18	DATA QUERY START
+- sql id : ADJ02015_2_LIST
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02015_2_LIST',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02015_2#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:14:18	GET DATA
+- Row size : 0
+DATA	2018-03-29 10:14:18	DATA QUERY END
+GATEWAY	2018-03-29 10:14:18	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:14:22	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:14:23	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:14:35	[SEND REQUEST]
+
+FORM	2018-03-29 10:14:35	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02016.jrf
+
+DATA	2018-03-29 10:14:35	DATA QUERY START
+- sql id : ADJ02016
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02016',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02016#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:14:35	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:14:35	DATA QUERY END
+GATEWAY	2018-03-29 10:14:35	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:14:37	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:14:37	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:14:55	[SEND REQUEST]
+
+FORM	2018-03-29 10:14:55	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02016_2.jrf
+
+DATA	2018-03-29 10:14:55	DATA QUERY START
+- sql id : ADJ02016_2
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02016_2',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02016_2#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:14:55	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:14:55	DATA QUERY END
+GATEWAY	2018-03-29 10:14:55	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:14:57	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:14:58	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:15:14	[SEND REQUEST]
+
+FORM	2018-03-29 10:15:14	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02017.jrf
+
+DATA	2018-03-29 10:15:14	DATA QUERY START
+- sql id : ADJ02017
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02017',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02017#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:15:14	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:15:14	DATA QUERY END
+GATEWAY	2018-03-29 10:15:14	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:15:17	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:15:18	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:15:36	[SEND REQUEST]
+
+FORM	2018-03-29 10:15:36	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02027_a.jrf
+
+DATA	2018-03-29 10:15:36	DATA QUERY START
+- sql id : ADJ02027_A_LIST
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02027_A_LIST',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02027_A#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:15:36	GET DATA
+- Row size : 4
+DATA	2018-03-29 10:15:36	DATA QUERY END
+DATA	2018-03-29 10:15:36	DATA QUERY START
+- sql id : ADJ02027_A_OBOX
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02027_A_OBOX',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02027_A#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:15:37	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:15:37	DATA QUERY END
+GATEWAY	2018-03-29 10:15:37	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:15:38	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:15:39	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:17:10	[SEND REQUEST]
+
+FORM	2018-03-29 10:17:10	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02027_b.jrf
+
+DATA	2018-03-29 10:17:10	DATA QUERY START
+- sql id : ADJ02027_B_LIST
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02027_B_LIST',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02027_B#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:17:11	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:17:11	DATA QUERY END
+DATA	2018-03-29 10:17:11	DATA QUERY START
+- sql id : ADJ02027_B_OBOX
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02027_B_OBOX',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02027_B#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:17:11	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:17:11	DATA QUERY END
+GATEWAY	2018-03-29 10:17:11	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:17:13	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:17:14	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:18:57	[SEND REQUEST]
+
+FORM	2018-03-29 10:18:57	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02047_a.jrf
+
+DATA	2018-03-29 10:18:57	DATA QUERY START
+- sql id : ADJ02047_A
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02047_A',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02047_A#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:18:58	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:18:58	DATA QUERY END
+GATEWAY	2018-03-29 10:18:58	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:19:00	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:19:01	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:19:13	[SEND REQUEST]
+
+FORM	2018-03-29 10:19:13	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02047_b.jrf
+
+DATA	2018-03-29 10:19:13	DATA QUERY START
+- sql id : ADJ02047_B
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02047_B',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02047_B#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:19:13	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:19:13	DATA QUERY END
+GATEWAY	2018-03-29 10:19:13	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:19:15	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:19:16	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:19:30	[SEND REQUEST]
+
+FORM	2018-03-29 10:19:30	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02050_a.jrf
+
+DATA	2018-03-29 10:19:30	DATA QUERY START
+- sql id : ADJ02050_A
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02050_A',  ? ,  ? ,   ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? , ? , ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02050_A#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:19:30	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:19:30	DATA QUERY END
+GATEWAY	2018-03-29 10:19:30	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:19:32	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:19:33	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:19:50	[SEND REQUEST]
+
+FORM	2018-03-29 10:19:50	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02050_b.jrf
+
+DATA	2018-03-29 10:19:50	DATA QUERY START
+- sql id : ADJ02050_B_LIST
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02050_B_LIST',  ? ,  ? ,   ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? , ? , ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02050_B#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:19:50	GET DATA
+- Row size : 0
+DATA	2018-03-29 10:19:50	DATA QUERY END
+DATA	2018-03-29 10:19:50	DATA QUERY START
+- sql id : ADJ02050_B_OBOX
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02050_B_OBOX',  ? ,  ? ,   ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? , ? , ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02050_B#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:19:51	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:19:51	DATA QUERY END
+GATEWAY	2018-03-29 10:19:51	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:19:53	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:19:54	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:20:03	[SEND REQUEST]
+
+FORM	2018-03-29 10:20:03	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02056.jrf
+
+DATA	2018-03-29 10:20:03	DATA QUERY START
+- sql id : ADJ02056
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02056',  ? ,  ? ,   ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? , ? , ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02056#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:20:03	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:20:03	DATA QUERY END
+GATEWAY	2018-03-29 10:20:03	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:20:06	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:20:07	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:20:16	[SEND REQUEST]
+
+FORM	2018-03-29 10:20:16	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02056_2.jrf
+
+DATA	2018-03-29 10:20:16	DATA QUERY START
+- sql id : ADJ02056_2
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02056_2',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02056_2#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:20:16	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:20:16	DATA QUERY END
+GATEWAY	2018-03-29 10:20:16	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:20:18	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:20:19	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:57:47	[SEND REQUEST]
+
+FORM	2018-03-29 10:57:47	[REQUEST FILE]
+- Report : D:/project/sabok/budget/report/bud22001.jrf
+
+DATA	2018-03-29 10:57:47	DATA QUERY START
+- sql id : DataSet0
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_BUDTB_BUGT01_LIST('LIST001',  ? ,  ? , 'S',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? , ? , ? ,  *CURSOR) }
+ #String#SABOK24#String#2018#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:57:47	GET DATA
+- Row size : 7
+DATA	2018-03-29 10:57:47	DATA QUERY END
+GATEWAY	2018-03-29 10:57:47	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:57:49	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:57:50	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:57:57	[SEND REQUEST]
+
+FORM	2018-03-29 10:57:57	[REQUEST FILE]
+- Report : D:/project/sabok/budget/report/bud23001.jrf
+
+DATA	2018-03-29 10:57:58	DATA QUERY START
+- sql id : DataSet0
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_BUDTB_BUGT02_LIST('LIST002',  ? ,  ? , ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? , ? , ? ,  *CURSOR) }
+ #String#SABOK24#String#2018#String##String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:57:58	GET DATA
+- Row size : 1
+DATA	2018-03-29 10:57:58	DATA QUERY END
+GATEWAY	2018-03-29 10:57:58	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:58:03	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:58:03	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:58:12	[SEND REQUEST]
+
+FORM	2018-03-29 10:58:12	[REQUEST FILE]
+- Report : D:/project/sabok/budget/report/bud21001.jrf
+
+DATA	2018-03-29 10:58:12	DATA QUERY START
+- sql id : ACC001
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_BUDTB_BUGT02_LIST( 'LIST003',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK24#String#ACC001P#String#2018#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:58:12	GET DATA
+- Row size : 37
+DATA	2018-03-29 10:58:12	DATA QUERY END
+GATEWAY	2018-03-29 10:58:12	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:58:13	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:58:13	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:58:21	[SEND REQUEST]
+
+FORM	2018-03-29 10:58:21	[REQUEST FILE]
+- Report : D:/project/sabok/budget/report/bud21001.jrf
+
+DATA	2018-03-29 10:58:21	DATA QUERY START
+- sql id : ACC001
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_BUDTB_BUGT02_LIST( 'LIST003',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK24#String#ACC002P#String#2018#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 10:58:21	GET DATA
+- Row size : 42
+DATA	2018-03-29 10:58:21	DATA QUERY END
+GATEWAY	2018-03-29 10:58:21	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 10:58:23	[SEND REQUEST]
+
+GATEWAY	2018-03-29 10:58:23	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 11:16:26	[SEND REQUEST]
+
+FORM	2018-03-29 11:16:26	[REQUEST FILE]
+- Report : D:/project/sabok/tax/report/adj02008.jrf
+
+DATA	2018-03-29 11:16:26	DATA QUERY START
+- sql id : ADJ02008_OBOX
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_OBOX',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK35#String#2017#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 11:16:26	GET DATA
+- Row size : 1
+DATA	2018-03-29 11:16:26	DATA QUERY END
+DATA	2018-03-29 11:16:26	DATA QUERY START
+- sql id : ADJ02008_LIST
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_LIST',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK35#String#2017#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 11:16:26	GET DATA
+- Row size : 10
+DATA	2018-03-29 11:16:26	DATA QUERY END
+GATEWAY	2018-03-29 11:16:26	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 11:16:28	[SEND REQUEST]
+
+GATEWAY	2018-03-29 11:16:30	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 11:16:34	[SEND REQUEST]
+
+FORM	2018-03-29 11:16:34	[REQUEST FILE]
+- Report : D:/project/sabok/tax/report/adj02008.jrf
+
+DATA	2018-03-29 11:16:34	DATA QUERY START
+- sql id : ADJ02008_OBOX
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_OBOX',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK05#String#2016#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 11:16:34	GET DATA
+- Row size : 1
+DATA	2018-03-29 11:16:34	DATA QUERY END
+DATA	2018-03-29 11:16:34	DATA QUERY START
+- sql id : ADJ02008_LIST
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_LIST',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK05#String#2016#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 11:16:34	GET DATA
+- Row size : 10
+DATA	2018-03-29 11:16:34	DATA QUERY END
+GATEWAY	2018-03-29 11:16:34	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 11:16:46	[SEND REQUEST]
+
+FORM	2018-03-29 11:16:46	[REQUEST FILE]
+- Report : D:/project/sabok/tax/report/adj02008.jrf
+
+DATA	2018-03-29 11:16:46	DATA QUERY START
+- sql id : ADJ02008_OBOX
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_OBOX',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK05#String#2017#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 11:16:46	GET DATA
+- Row size : 1
+DATA	2018-03-29 11:16:46	DATA QUERY END
+DATA	2018-03-29 11:16:46	DATA QUERY START
+- sql id : ADJ02008_LIST
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_LIST',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK05#String#2017#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 11:16:46	GET DATA
+- Row size : 10
+DATA	2018-03-29 11:16:46	DATA QUERY END
+GATEWAY	2018-03-29 11:16:46	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 12:43:03	[SEND REQUEST]
+
+FORM	2018-03-29 12:43:03	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02056_2.jrf
+
+DATA	2018-03-29 12:43:03	DATA QUERY START
+- sql id : ADJ02056_2
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02056_2',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK38#String#2017#String#ADJ02056_2#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 12:43:03	GET DATA
+- Row size : 1
+DATA	2018-03-29 12:43:03	DATA QUERY END
+GATEWAY	2018-03-29 12:43:03	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 13:15:28	[SEND REQUEST]
+
+FORM	2018-03-29 13:15:28	[REQUEST FILE]
+- Report : D:/project/sabok/tax/report/adj02008.jrf
+
+DATA	2018-03-29 13:15:28	DATA QUERY START
+- sql id : ADJ02008_OBOX
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_OBOX',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK05#String#2017#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 13:15:28	GET DATA
+- Row size : 1
+DATA	2018-03-29 13:15:28	DATA QUERY END
+DATA	2018-03-29 13:15:28	DATA QUERY START
+- sql id : ADJ02008_LIST
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_LIST',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK05#String#2017#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 13:15:28	GET DATA
+- Row size : 10
+DATA	2018-03-29 13:15:28	DATA QUERY END
+GATEWAY	2018-03-29 13:15:28	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 13:15:38	[SEND REQUEST]
+
+FORM	2018-03-29 13:15:38	[REQUEST FILE]
+- Report : D:/project/sabok/tax/report/adj02008.jrf
+
+DATA	2018-03-29 13:15:38	DATA QUERY START
+- sql id : ADJ02008_OBOX
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_OBOX',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK05#String#2017#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 13:15:38	GET DATA
+- Row size : 1
+DATA	2018-03-29 13:15:38	DATA QUERY END
+DATA	2018-03-29 13:15:38	DATA QUERY START
+- sql id : ADJ02008_LIST
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_LIST',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK05#String#2017#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 13:15:38	GET DATA
+- Row size : 10
+DATA	2018-03-29 13:15:38	DATA QUERY END
+GATEWAY	2018-03-29 13:15:38	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 13:15:53	[SEND REQUEST]
+
+GATEWAY	2018-03-29 13:15:53	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 13:16:28	[SEND REQUEST]
+
+FORM	2018-03-29 13:16:28	[REQUEST FILE]
+- Report : D:/project/sabok/tax/report/adj02008.jrf
+
+DATA	2018-03-29 13:16:28	DATA QUERY START
+- sql id : ADJ02008_OBOX
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_OBOX',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK05#String#2017#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 13:16:28	GET DATA
+- Row size : 1
+DATA	2018-03-29 13:16:28	DATA QUERY END
+DATA	2018-03-29 13:16:28	DATA QUERY START
+- sql id : ADJ02008_LIST
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_LIST',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK05#String#2017#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 13:16:28	GET DATA
+- Row size : 10
+DATA	2018-03-29 13:16:28	DATA QUERY END
+GATEWAY	2018-03-29 13:16:28	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 13:16:33	[SEND REQUEST]
+
+GATEWAY	2018-03-29 13:16:33	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 13:33:20	[SEND REQUEST]
+
+FORM	2018-03-29 13:33:20	[REQUEST FILE]
+- Report : D:/project/sabok/account/report/ACC001.jrf
+
+DATA	2018-03-29 13:33:20	DATA QUERY START
+- sql id : ACC001
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_ACCTB_SUMM02_LIST( ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#LIST002#String#SABOK38#String#ACC002#String#201712#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 13:33:20	GET DATA
+- Row size : 42
+DATA	2018-03-29 13:33:20	DATA QUERY END
+GATEWAY	2018-03-29 13:33:20	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 13:33:27	[SEND REQUEST]
+
+GATEWAY	2018-03-29 13:33:27	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 13:39:57	[SEND REQUEST]
+
+FORM	2018-03-29 13:39:57	[REQUEST FILE]
+- Report : D:/project/sabok/account/report/ACC001.jrf
+
+DATA	2018-03-29 13:39:57	DATA QUERY START
+- sql id : ACC001
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_ACCTB_SUMM02_LIST( ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#LIST001#String#SABOK38#String#ACC001#String#201712#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 13:39:58	GET DATA
+- Row size : 56
+DATA	2018-03-29 13:39:58	DATA QUERY END
+GATEWAY	2018-03-29 13:39:58	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 13:40:02	[SEND REQUEST]
+
+GATEWAY	2018-03-29 13:40:03	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 13:57:42	[SEND REQUEST]
+
+FORM	2018-03-29 13:57:42	[REQUEST FILE]
+- Report : D:/project/sabok/account/report/ACC001.jrf
+
+DATA	2018-03-29 13:57:42	DATA QUERY START
+- sql id : ACC001
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_ACCTB_SUMM02_LIST( ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#LIST001#String#SABOK35#String#ACC001#String#201712#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 13:57:42	GET DATA
+- Row size : 55
+DATA	2018-03-29 13:57:42	DATA QUERY END
+GATEWAY	2018-03-29 13:57:42	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 13:57:45	[SEND REQUEST]
+
+GATEWAY	2018-03-29 13:57:45	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 13:57:57	[SEND REQUEST]
+
+GATEWAY	2018-03-29 13:57:57	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 13:58:06	[SEND REQUEST]
+
+FORM	2018-03-29 13:58:06	[REQUEST FILE]
+- Report : D:/project/sabok/tax/report/adj02008.jrf
+
+DATA	2018-03-29 13:58:06	DATA QUERY START
+- sql id : ADJ02008_OBOX
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_OBOX',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK35#String#2017#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 13:58:06	GET DATA
+- Row size : 1
+DATA	2018-03-29 13:58:06	DATA QUERY END
+DATA	2018-03-29 13:58:06	DATA QUERY START
+- sql id : ADJ02008_LIST
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_LIST',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK35#String#2017#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 13:58:06	GET DATA
+- Row size : 10
+DATA	2018-03-29 13:58:06	DATA QUERY END
+GATEWAY	2018-03-29 13:58:06	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 13:58:12	[SEND REQUEST]
+
+GATEWAY	2018-03-29 13:58:14	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 13:58:47	[SEND REQUEST]
+
+FORM	2018-03-29 13:58:47	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02056.jrf
+
+DATA	2018-03-29 13:58:47	DATA QUERY START
+- sql id : ADJ02056
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02056',  ? ,  ? ,   ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? , ? , ? ,  *CURSOR) }
+ #String#SABOK35#String#2017#String#ADJ02056#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 13:58:47	GET DATA
+- Row size : 1
+DATA	2018-03-29 13:58:47	DATA QUERY END
+GATEWAY	2018-03-29 13:58:47	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 13:58:49	[SEND REQUEST]
+
+GATEWAY	2018-03-29 13:58:50	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 13:59:21	[SEND REQUEST]
+
+FORM	2018-03-29 13:59:21	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02027_a.jrf
+
+DATA	2018-03-29 13:59:21	DATA QUERY START
+- sql id : ADJ02027_A_LIST
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02027_A_LIST',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK35#String#2017#String#ADJ02027_A#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 13:59:21	GET DATA
+- Row size : 4
+DATA	2018-03-29 13:59:21	DATA QUERY END
+DATA	2018-03-29 13:59:21	DATA QUERY START
+- sql id : ADJ02027_A_OBOX
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02027_A_OBOX',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK35#String#2017#String#ADJ02027_A#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 13:59:21	GET DATA
+- Row size : 1
+DATA	2018-03-29 13:59:21	DATA QUERY END
+GATEWAY	2018-03-29 13:59:21	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 14:16:37	[SEND REQUEST]
+
+FORM	2018-03-29 14:16:37	[REQUEST FILE]
+- Report : D:/project/sabok/tax/report/adj02008.jrf
+
+DATA	2018-03-29 14:16:37	DATA QUERY START
+- sql id : ADJ02008_OBOX
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_OBOX',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK05#String#2017#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 14:16:38	GET DATA
+- Row size : 1
+DATA	2018-03-29 14:16:38	DATA QUERY END
+DATA	2018-03-29 14:16:38	DATA QUERY START
+- sql id : ADJ02008_LIST
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_LIST',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK05#String#2017#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 14:16:38	GET DATA
+- Row size : 10
+DATA	2018-03-29 14:16:38	DATA QUERY END
+GATEWAY	2018-03-29 14:16:38	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 14:16:49	[SEND REQUEST]
+
+GATEWAY	2018-03-29 14:16:49	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 14:22:28	[SEND REQUEST]
+
+FORM	2018-03-29 14:22:28	[REQUEST FILE]
+- Report : D:/project/sabok/tax/report/adj02008.jrf
+
+DATA	2018-03-29 14:22:28	DATA QUERY START
+- sql id : ADJ02008_OBOX
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_OBOX',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK35#String#2017#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 14:22:28	GET DATA
+- Row size : 1
+DATA	2018-03-29 14:22:28	DATA QUERY END
+DATA	2018-03-29 14:22:28	DATA QUERY START
+- sql id : ADJ02008_LIST
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_LIST',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK35#String#2017#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 14:22:28	GET DATA
+- Row size : 10
+DATA	2018-03-29 14:22:28	DATA QUERY END
+GATEWAY	2018-03-29 14:22:28	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 14:22:36	[SEND REQUEST]
+
+GATEWAY	2018-03-29 14:22:37	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 14:22:37	[SEND REQUEST]
+
+GATEWAY	2018-03-29 14:22:37	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 14:22:45	[SEND REQUEST]
+
+GATEWAY	2018-03-29 14:22:45	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 14:22:45	[SEND REQUEST]
+
+GATEWAY	2018-03-29 14:22:45	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 14:28:24	[SEND REQUEST]
+
+GATEWAY	2018-03-29 14:28:26	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 15:39:05	[SEND REQUEST]
+
+FORM	2018-03-29 15:39:05	[REQUEST FILE]
+- Report : D:/project/sabok/tax/report/adj02008.jrf
+
+DATA	2018-03-29 15:39:05	DATA QUERY START
+- sql id : ADJ02008_OBOX
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_OBOX',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK05#String#2017#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 15:39:05	GET DATA
+- Row size : 1
+DATA	2018-03-29 15:39:05	DATA QUERY END
+DATA	2018-03-29 15:39:05	DATA QUERY START
+- sql id : ADJ02008_LIST
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_LIST',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK05#String#2017#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 15:39:05	GET DATA
+- Row size : 10
+DATA	2018-03-29 15:39:05	DATA QUERY END
+GATEWAY	2018-03-29 15:39:05	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 15:39:19	[SEND REQUEST]
+
+GATEWAY	2018-03-29 15:39:20	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 15:39:20	[SEND REQUEST]
+
+GATEWAY	2018-03-29 15:39:20	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 16:03:31	[SEND REQUEST]
+
+FORM	2018-03-29 16:03:31	[REQUEST FILE]
+- Report : D:/project/sabok/account/report/ACC001.jrf
+
+DATA	2018-03-29 16:03:31	DATA QUERY START
+- sql id : ACC001
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_ACCTB_SUMM02_LIST( ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#LIST001#String#SABOK38#String#ACC001#String#201712#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 16:03:31	GET DATA
+- Row size : 56
+DATA	2018-03-29 16:03:31	DATA QUERY END
+GATEWAY	2018-03-29 16:03:31	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 16:03:36	[SEND REQUEST]
+
+GATEWAY	2018-03-29 16:03:36	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 16:04:09	[SEND REQUEST]
+
+FORM	2018-03-29 16:04:09	[REQUEST FILE]
+- Report : D:/project/sabok/account/report/ACC001.jrf
+
+DATA	2018-03-29 16:04:09	DATA QUERY START
+- sql id : ACC001
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_ACCTB_SUMM02_LIST( ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#LIST002#String#SABOK38#String#ACC002#String#201712#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 16:04:09	GET DATA
+- Row size : 42
+DATA	2018-03-29 16:04:09	DATA QUERY END
+GATEWAY	2018-03-29 16:04:09	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 16:04:17	[SEND REQUEST]
+
+FORM	2018-03-29 16:04:17	[REQUEST FILE]
+- Report : D:/project/sabok/account/report/ACC001.jrf
+
+DATA	2018-03-29 16:04:17	DATA QUERY START
+- sql id : ACC001
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_ACCTB_SUMM02_LIST( ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#LIST002#String#SABOK38#String#ACC002#String#201712#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 16:04:17	GET DATA
+- Row size : 42
+DATA	2018-03-29 16:04:17	DATA QUERY END
+GATEWAY	2018-03-29 16:04:17	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 16:04:40	[SEND REQUEST]
+
+GATEWAY	2018-03-29 16:04:40	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 19:00:44	[SEND REQUEST]
+
+FORM	2018-03-29 19:00:44	[REQUEST FILE]
+- Report : D:/project/sabok/tax/report/adj02008.jrf
+
+DATA	2018-03-29 19:00:44	DATA QUERY START
+- sql id : ADJ02008_OBOX
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_OBOX',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK25#String#2016#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 19:00:44	GET DATA
+- Row size : 1
+DATA	2018-03-29 19:00:44	DATA QUERY END
+DATA	2018-03-29 19:00:44	DATA QUERY START
+- sql id : ADJ02008_LIST
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02008_LIST',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK25#String#2016#String#ADJ02008#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-29 19:00:44	GET DATA
+- Row size : 10
+DATA	2018-03-29 19:00:44	DATA QUERY END
+GATEWAY	2018-03-29 19:00:44	[SEND RESPONSE]
+
+GATEWAY	2018-03-29 19:00:48	[SEND REQUEST]
+
+GATEWAY	2018-03-29 19:00:49	[SEND RESPONSE]
+

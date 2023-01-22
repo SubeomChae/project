@@ -1,0 +1,26 @@
+GATEWAY	2018-04-20 13:58:11	[SEND REQUEST]
+
+FORM	2018-04-20 13:58:11	[REQUEST FILE]
+- Report : D:/project/sabok//tax/report/adj02001_1.jrf
+
+DATA	2018-04-20 13:58:11	DATA QUERY START
+- sql id : ADJ02001_1
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_COMTB_REPT01_LIST( 'ADJ02001_1',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK01#String#2017#String#ADJ02001_1#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-04-20 13:58:11	GET DATA
+- Row size : 1
+DATA	2018-04-20 13:58:11	DATA QUERY END
+GATEWAY	2018-04-20 13:58:11	[SEND RESPONSE]
+
+GATEWAY	2018-04-20 13:58:18	[SEND REQUEST]
+
+GATEWAY	2018-04-20 13:58:18	[SEND RESPONSE]
+
+GATEWAY	2018-04-20 13:58:18	[SEND REQUEST]
+
+GATEWAY	2018-04-20 13:58:18	[SEND RESPONSE]
+

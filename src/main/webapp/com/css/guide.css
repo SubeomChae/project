@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/* *********************************************
+Project =====
+FileName ====
+Author ====== name
+Date ======== 2017-09-23
+Last ========
+********************************************* */
+
+
+/* --------------------------------------------
+ * 가이드
+/* ------------------------------------------ */
+
+.page-guide .page-header.navbar { background:#000; height:40px; min-height:40px; }
+.page-guide .page-header.navbar .page-logo { height:40px; line-height:40px; }
+
+.page-guide ul.guideUL { padding-left:15px; padding-bottom:20px; }
+.page-guide ul.guideUL li, .page-guide ol.guideOL { list-style-type:disc; display:list-item; }
+
+.page-guide hr.page-title-hr { border-top:1px solid #b8bfc6; margin:0px 0px 20px 0px; }
+.page-guide .portlet-body .contentsRow .portlet-body-title { margin:40px 0px 30px 0px; font-weight:bold; }
+.page-guide .portlet-body .contentsRow:first-child .portlet-body-title{ margin-top:10px; }
+.page-guide .portlet.light.bordered { border:1px solid #dee0e2 !important; }
+.page-guide hr.portlet-body-title-hr { border-top:1px dashed #dee0e2; }
+.page-guide .portlet-body .contentsRow.portlet-body-hr { border-top:1px solid #dee0e2; padding-bottom:20px; }
+.page-guide .portlet-body .contentsRow.portlet-body-hr:first-child { border-top:0px solid #dee0e2; }
+
+.page-guide .page-header.navbar { background:#2663af; }
+.page-guide .page-header .page-header-inner #nav li { border-right:1px solid #3e78bf; }
+.page-guide .page-header .page-header-inner #nav li a:hover,
+.page-guide .page-header .page-header-inner #nav li a.active { background-color:#1b4e8c; }
+.page-guide .page-header .page-header-inner #nav { border-left:1px solid #3e78bf; }
+
+.page-guide .page-content-wrapper .page-content { margin-right:0px; }
+.page-guide .page-header.navbar .page-logo { margin:0px 40px 0 15px; }
+
+.page-guide .page-content-wrapper .page-content {margin-left:235px; border-left:1px solid #b8bfc6;}
+
+.page-guide #nav .dropdown-menu { background-color:#1b4e8c !important; }
+.page-guide #nav .dropdown-menu li a:hover,
+.page-guide #nav .dropdown-menu li a.active { background-color:#1b4579 !important; }
+.page-guide #nav .dropdown-menu > li:hover > a,
+.page-guide #nav .dropdown-menu > li.active > a,
+.page-guide #nav .dropdown-menu > li.active:hover > a { background-color: #1b3d68; color: #fff; }
+
+.page-guide .logo-default { font-size:18px; color:#fff; font-weight:bold; }
+
+.page-guide .page-content > .page-title { padding:25px 45px; background-position:30px 50%; }
+
+.page-guide .contentWrapper {width:calc(100%);}
+
+.page-guide .page-footer .page-footer-inner {padding-top: 0px;}
+.page-guide .page-footer .page-footer-inner .page-footer-container .address {display:inline-block;}
+.page-guide .page-footer .page-footer-inner .page-footer-container .tel {display:inline-block;}
+
+.bd-example-row .contentsRow.col, .bd-example-row .contentsRow>[class^=col-] {
+	padding-top:.75rem;
+	padding-bottom:.75rem;
+	padding-left:15px;
+	padding-right:15px;
+	background-color:rgba(86,61,124,.15);
+	border:1px solid rgba(86,61,124,.2);
+}
+
+.bd-example-row .row.col, .bd-example-row .row>[class^=col-] {
+	padding-top:.75rem;
+	padding-bottom:.75rem;
+	padding-left:15px;
+	padding-right:15px;
+	background-color:rgba(86,61,124,.15);
+	border:1px solid rgba(86,61,124,.2);
+}

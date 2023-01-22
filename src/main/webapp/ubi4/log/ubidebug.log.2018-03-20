@@ -1,0 +1,84 @@
+GATEWAY	2018-03-20 15:06:43	[SEND REQUEST]
+
+FORM	2018-03-20 15:06:43	[REQUEST FILE]
+- Report : D:/project/sabok/account/report/slp01001.jrf
+
+DATA	2018-03-20 15:06:43	DATA QUERY START
+- sql id : LIST002
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_ACCTB_SLIP02_LIST( 'LIST002',  ? ,  '20170315A0001',  '',  '',  '',  '',  '',  '',  '',  '',  '',  ? ,  ? ,  *CURSOR) }
+ #String#SABOK18#String##String##
+>
+DATA	2018-03-20 15:06:43	GET DATA
+- Row size : 2
+DATA	2018-03-20 15:06:43	DATA QUERY END
+DATA	2018-03-20 15:06:43	DATA QUERY START
+- sql id : SLIP_DETAIL
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_REPORT_SQL( 'SLIP_DETAIL',  ? ,  '20170315A0001',  '',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK18#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-20 15:06:43	GET DATA
+- Row size : 1
+DATA	2018-03-20 15:06:43	DATA QUERY END
+DATA	2018-03-20 15:06:43	DATA QUERY START
+- sql id : SIGNLINE
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_REPORT_SQL( 'SIGNLINE',  ? ,  'SLP001',  'ACCTB_SLIP01|20170315A0001',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK18#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-20 15:06:43	GET DATA
+- Row size : 1
+DATA	2018-03-20 15:06:43	DATA QUERY END
+GATEWAY	2018-03-20 15:06:43	[SEND RESPONSE]
+
+GATEWAY	2018-03-20 15:06:51	[SEND REQUEST]
+
+GATEWAY	2018-03-20 15:06:52	[SEND RESPONSE]
+
+GATEWAY	2018-03-20 15:07:23	[SEND REQUEST]
+
+FORM	2018-03-20 15:07:23	[REQUEST FILE]
+- Report : D:/project/sabok/account/report/slp01001.jrf
+
+DATA	2018-03-20 15:07:23	DATA QUERY START
+- sql id : LIST002
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_ACCTB_SLIP02_LIST( 'LIST002',  ? ,  '20170823A0001',  '',  '',  '',  '',  '',  '',  '',  '',  '',  ? ,  ? ,  *CURSOR) }
+ #String#SABOK18#String##String##
+>
+DATA	2018-03-20 15:07:23	GET DATA
+- Row size : 4
+DATA	2018-03-20 15:07:23	DATA QUERY END
+DATA	2018-03-20 15:07:23	DATA QUERY START
+- sql id : SLIP_DETAIL
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_REPORT_SQL( 'SLIP_DETAIL',  ? ,  '20170823A0001',  '',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK18#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-20 15:07:23	GET DATA
+- Row size : 1
+DATA	2018-03-20 15:07:23	DATA QUERY END
+DATA	2018-03-20 15:07:23	DATA QUERY START
+- sql id : SIGNLINE
+- Db charset : KSC5601
+- Sql
+<
+{ call SABOWNER.PR_REPORT_SQL( 'SIGNLINE',  ? ,  'SLP001',  'ACCTB_SLIP01|20170823A0001',  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  ? ,  *CURSOR) }
+ #String#SABOK18#String##String##String##String##String##String##String##String##String##String##
+>
+DATA	2018-03-20 15:07:24	GET DATA
+- Row size : 1
+DATA	2018-03-20 15:07:24	DATA QUERY END
+GATEWAY	2018-03-20 15:07:24	[SEND RESPONSE]
+

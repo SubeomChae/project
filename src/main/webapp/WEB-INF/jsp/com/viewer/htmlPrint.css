@@ -1,0 +1,70 @@
+@charset "UTF-8";
+@page { size:A4;margin:0mm;}
+
+	body, td, button {
+		color:#123456;
+		font-size:10pt;
+		font-family:"바탕체",Gulim,Arial,Helvetica,sans-serif;
+		line-height:1.5;
+		letter-spacing:0px;
+	}
+	
+	p {
+		margin:0px;
+		padding:0px;
+		word-break:break-all;
+	}
+	
+	.tblHead {
+		border-collapse: collapse;
+		border: 1px solid black;
+		width:630px;
+	}
+	
+	.tblHead tr {
+		height:25px;
+	}
+	
+	.tblHead th {
+		font-size:10pt;
+		font-family:"바탕체",Gulim,Arial,Helvetica,sans-serif;
+		text-align:center;
+		vertical-align:middle;
+		background-color:#efefef;
+		border: 1px solid black;
+	}
+	
+	.tleft {
+		text-align:left !important;
+		padding-left:2pt;
+	}
+	
+	.tblHead td {
+		font-size:10pt;
+		font-family:"바탕체",Gulim,Arial,Helvetica,sans-serif;
+		text-align:center;
+		vertical-align:middle;
+		border: 1px solid black;
+	}
+	
+	#divHtml {
+		margin: 0px;
+		padding: 0px;
+		word-break:break-all;
+	}
+	
+	#divCont {
+		width:620px;
+		margin-top:20px;
+		padding:5px;
+		min-height:100px;
+		border: 1px solid black;
+	}
+	
+	#pDocTitle {
+		font-size:22pt;
+		width:630px;
+		text-align:center;
+		font-weight:bold;
+		margin:0px;
+	}
